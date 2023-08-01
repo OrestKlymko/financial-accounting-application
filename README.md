@@ -1,1 +1,1 @@
-# financial-accounting-application
+# financial-accounting
